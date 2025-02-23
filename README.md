@@ -30,3 +30,4 @@ Welcome to the **TabLayout Project**! This Android application showcases the use
 
 - [Android Developers Documentation - TabLayout](https://developer.android.com/reference/com/google/android/material/tabs/TabLayout)
 - [Guide on Using ViewPager2 in Android](https://developer.android.com/guide/navigation/viewpager2)
+- https://github.com/Priyanka26211/TabLayout
